@@ -14,7 +14,7 @@ $ module load anaconda/python3
 ```		
 $ pip install -U pytest
 ```
-## Run
+## Execution
 ### Code
 To run the code you need to type the following command at the command line
 ```
@@ -25,10 +25,8 @@ To run the code you need to type the following command at the command line
 ```
 $ py.test
 ```
-
-
-
-
 ## Author
-This software was developed by Yajuan Zhang. <br>
-For any question and for reporting bugs please send an email to Yajuan Zhang at: s1883916@ed.ac.uk<br>
+* Yeow Tong Yeo s1887493@ed.ac.uk <br>
+* Zhiyao Qian s1815492@ed.ac.uk <br>
+* Yajuan Zhang s1883916@ed.ac.uk <br>
+For any question and for reporting bugs please send an email to us. <br>
