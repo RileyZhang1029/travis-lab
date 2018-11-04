@@ -3,7 +3,6 @@ This is a full development framework that implements a sequential version of a t
 ## Getting started
 ### Prerequisites
 Python 3.0 and up 
-linux
 ### Installing
 1. The version of code is **python 3.6**, you need to load module at first using the command line as below 
 ```
