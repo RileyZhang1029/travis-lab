@@ -5,3 +5,4 @@ script:
   - python pumahares_file.py 
 install:
   - pip install -U Pillow
+  - pip install -U imageio
