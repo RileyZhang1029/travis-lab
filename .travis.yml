@@ -3,3 +3,5 @@ python:
   - "3.6" 
 script:  
   - python pumahares_file.py 
+install:
+  - pip install pillow
