@@ -1,5 +1,5 @@
 from numpy import *
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw
 import imageio
 import time
 import os
