@@ -4,4 +4,4 @@ python:
 script:  
   - python pumahares_file.py 
 install:
-  - pip install -U pillow
+  - pip install -U Pillow
