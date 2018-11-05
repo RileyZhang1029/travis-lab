@@ -133,7 +133,7 @@ if __name__ == '__main__':
     start = time.time()
     a,b,r,k,l,m,dt,T = 0.04,0.02,0.08,0.2,0.2,0.06,0.4,4
     dat_file ="dat_file.dat"
-    image_file = "random.bmp"
+    image_file = "pic_40.bmp"
     image_to_dat(image_file, dat_file)
     land_data = dat_to_data(dat_file)
     # Shape of the landscape
