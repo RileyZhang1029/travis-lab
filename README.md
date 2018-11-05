@@ -1,4 +1,5 @@
 # Programming Skills -- Coursework 1
+[![Build status](https://travis-ci.org/RileyZhang1029/travislab.svg?master)](https://travis-ci.org/RileyZhang1029) 
 This is a full development framework that implements a sequential version of a two-dimensional predator-prey model with spatial diffusion using Python. <br> 
 ## Getting started
 ### Prerequisites
