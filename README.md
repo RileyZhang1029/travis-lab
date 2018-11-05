@@ -9,8 +9,12 @@ Python 3.0 and up
 ```
 $ module load anaconda/python3
 ```
-
-2. To implement test you need to install **pytest**. Type the following command at the command line
+2. To output PPM files, you need to download several packages using the command line as below      
+```
+$ pip install -U Pillow
+$ pip install -U imageio
+```
+3. To implement test you need to install **pytest**. Type the following command at the command line
 ```		
 $ pip install -U pytest
 ```
