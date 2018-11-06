@@ -1,11 +1,10 @@
 # Programming Skills -- Coursework 1
-[![Build status](https://travis-ci.org/RileyZhang1029/travis-lab.svg?branch=master)](https://travis-ci.org/RileyZhang1029) <br>
 This is a full development framework that implements a sequential version of a two-dimensional predator-prey model with spatial diffusion using Python. <br> 
 ## Getting started
 ### Prerequisites
 Python 3.0 and up 
 ### Installing
-1. The version of code is **python 3.6**, you need to load module at first using the command line as below 
+1. The version of code is **python 3.6.4**, you need to load module at first using the command line as below 
 ```
 $ module load anaconda/python3
 ```
@@ -20,12 +19,18 @@ $ pip install -U pytest
 ```
 ## Execution
 ### Code
-To run the code you need to type the following command at the command line
+There are two ways to run the code: running from the command-line in batch mode, or from the interface.
+When using batch mode, you can change values of variables (r, a, b, m, k, l, dt, T) and the path of image\_file in "Inputs.txt" which is in the same folder as the py file before executing. Then, you need to type the following command on the command-line. 
 ```
 $ python pumahares_file.py
 ```
+When using interface, you need to run the code by typing the following command on the command-line. After the interface prompting a window, you can change values of variables (r, a, b, m, k, l, dt, T) on the window.
+```
+$ python pumahares_GUI.py
+```
+
 ### Test
-To run the code you need to type the following command at the command line
+To run the code you need to type the following command on the command line:
 ```
 $ py.test
 ```
